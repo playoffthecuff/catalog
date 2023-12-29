@@ -1,0 +1,63 @@
+<svg width="54" height="166" viewBox="0 0 54 166" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="28" cy="3" r="2" fill="black" stroke="black" stroke-width="2"/>
+<circle cx="28" cy="129" r="2" fill="black" stroke="black" stroke-width="2"/>
+<path d="M22 22C22 30 34 30 34 22" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<path d="M28 28L28 35.9998" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<path d="M34 74C34 66 22 66 22 74" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<path d="M28 68L28 60.0002" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<rect width="10" height="6" rx="1" transform="matrix(0 -1 -1 0 31 83)" fill="black"/>
+<path d="M28 91L28 83.0002" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<path d="M53 3L1.00125 3" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<path d="M28 139L28 121" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<rect x="17" y="37" width="22" height="22" rx="5" stroke="#6750A4" stroke-width="2"/>
+<path d="M28 60L28 54.0001" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<path d="M28 45L28 36.0002" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<path d="M28 54L22.0001 44.0002" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<path d="M28 42C26 42.133 26 44.867 28 45" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<rect width="10" height="6" rx="1" transform="matrix(0 1 1 0 25 13)" fill="black"/>
+<path d="M28 3L28 12.9998" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<path d="M51 115H53" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<path d="M51 111H53" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<circle cx="46" cy="113" r="5" stroke="black" stroke-width="2"/>
+<path d="M51 101H53" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<path d="M51 97H53" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<circle cx="46" cy="99" r="5" stroke="black" stroke-width="2"/>
+<path d="M46 121V91.0007" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<path d="M51 115H53" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<path d="M51 111H53" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<circle cx="46" cy="113" r="5" stroke="black" stroke-width="2"/>
+<path d="M51 101H53" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<path d="M51 97H53" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<circle cx="46" cy="99" r="5" stroke="black" stroke-width="2"/>
+<path d="M46 121V91.0007" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<path d="M15 115H17" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<path d="M15 111H17" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<circle cx="10" cy="113" r="5" stroke="black" stroke-width="2"/>
+<path d="M15 101H17" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<path d="M15 97H17" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<circle cx="10" cy="99" r="5" stroke="black" stroke-width="2"/>
+<path d="M10 121L10 91.0007" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<path d="M15 115H17" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<path d="M15 111H17" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<circle cx="10" cy="113" r="5" stroke="black" stroke-width="2"/>
+<path d="M15 101H17" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<path d="M15 97H17" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<circle cx="10" cy="99" r="5" stroke="black" stroke-width="2"/>
+<path d="M10 121L10 91.0007" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<path d="M33 115H35" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<path d="M33 111H35" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<circle cx="28" cy="113" r="5" stroke="black" stroke-width="2"/>
+<path d="M33 101H35" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<path d="M33 97H35" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<circle cx="28" cy="99" r="5" stroke="black" stroke-width="2"/>
+<path d="M28 121L28 91.0007" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<path d="M33 115H35" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<path d="M33 111H35" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<circle cx="28" cy="113" r="5" stroke="black" stroke-width="2"/>
+<path d="M33 101H35" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<path d="M33 97H35" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<circle cx="28" cy="99" r="5" stroke="black" stroke-width="2"/>
+<path d="M28 121L28 91.0007" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<path d="M26 164V166H30V164H26ZM30 164L30 139.001H26L26 164H30Z" fill="#287850"/>
+<path d="M28.866 149.5C28.4811 150.167 27.5189 150.167 27.134 149.5L21.9378 140.5C21.5529 139.833 22.034 139 22.8038 139H33.1962C33.966 139 34.4471 139.833 34.0622 140.5L28.866 149.5Z" fill="#287850"/>
+</svg>
